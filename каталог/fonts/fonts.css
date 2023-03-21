@@ -1,0 +1,20 @@
+@font-face{
+    font-family: 'Helveticaneuecyr Roman';
+    font-weight: normal;
+    font-style: normal;
+    src: local('Helveticaneuecyr Roman'), url('./helveticaneuecyr-roman.woff');
+}
+
+@font-face{
+    font-family: 'Helveticaneuecyr Bold';
+    font-weight: normal;
+    font-style: normal;
+    src: local('Helveticaneuecyr Bold'), url('./helveticaneuecyr-bold.woff');
+}
+
+@font-face{
+    font-family: 'Helveticaneuecyr Medium';
+    font-weight: normal;
+    font-style: normal;
+    src: local('Helveticaneuecyr Medium'), url('./helveticaneuecyr-medium.woff');
+}
